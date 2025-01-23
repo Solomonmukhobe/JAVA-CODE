@@ -1,3 +1,9 @@
+/*
+AUTHOR: SOLOMON MUKHOBE
+REG NO: CT101/G/19976/23
+DATE: 23/01/2025
+A PROGRAM TO CALCULATE EMPLOYEE BONUS
+ */
 //From Java utilities, we import the scanner module which will be used to accept input
 
 import java.util.Scanner;
